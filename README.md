@@ -17,3 +17,7 @@ Impala-3.2.0在CentOS7.6 aarch64移植过程中，涉及的impala、kudu、nativ
 * make-rpm-hive-cdh6.3.2.sh
 * make-rpm-impala-v3.2.sh
 * make-rpm-kudu-cdh6.3.2.sh
+
+涉及版权问题，不上传具体代码，具体见
+https://mirrors.huaweicloud.com/kunpeng/archive/kunpeng_solution/bigdata/
+https://github.com/kunpengcompute
